@@ -241,6 +241,8 @@ a:hover { color: var(--accent-hover); }
   display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; font-size: 13px;
 }
 
+.footer-link, .footer-link:hover { color: #FFFFFF; }
+
 /* ===== Mobile ===== */
 @media (max-width: 600px) {
   .container { padding-left: 16px; padding-right: 16px; }
